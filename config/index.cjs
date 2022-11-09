@@ -19,10 +19,10 @@ const USER_CONFIG = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: '雅雅',
+      name: '梁翼','雅雅',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'o-PsT6Xy40d89pPLpZpa_Z4Hj6Ew',
-      // 使用微信测试号：你想对他发送的模板消息的模板ID
+      id: 'o-PsT6Xy40d89pPLpZpa_Z4Hj6Ew','o-PsT6YN12rNNJOjf57Mul2f16Sw',
+      // 使用微信测试号：你想对他发送的模板消息的模板ID      
       useTemplateId: 'zSb3D_Gx3gqwW4ehnZQ1XpleuqSegLBgGsvS-Mc2xYE',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '04-30',
