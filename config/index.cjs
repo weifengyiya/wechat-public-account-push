@@ -45,6 +45,33 @@ const USER_CONFIG = {
         { keyword: 'love_day', date: '2020-11-13' },
       ],
     },
+    {
+      name: '梁翼',
+      id: 'o-PsT6Xy40d89pPLpZpa_Z4Hj6Ew',
+      useTemplateId: 'zSb3D_Gx3gqwW4ehnZQ1XpleuqSegLBgGsvS-Mc2xYE',
+      province: '河南',
+      city: '郑州',
+      horoscopeDate: '07-20',
+      horoscopeDateType: '今日',
+      openUrl: '',
+      festivals: [
+        // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
+        {
+          type: '*生日', name: '雅雅', year: '1999', date: '03-15',
+        },
+        // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
+        {
+          type: '生日', name: '梁翼', year: '1998', date: '07-20',
+        },
+        {
+          type: '节日', name: '恋爱纪念日', year: '2020', date: '11-13',
+        },
+      ],],
+      customizedDateList: [
+        // 在一起的日子
+        { keyword: 'love_day', date: '2020-11-13' },
+      ],
+    },  
   ],
 
 
