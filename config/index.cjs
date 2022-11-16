@@ -66,7 +66,7 @@ const USER_CONFIG = {
         {
           type: '节日', name: '恋爱纪念日', year: '2020', date: '11-13',
         },
-      ],],
+      ],
       customizedDateList: [
         // 在一起的日子
         { keyword: 'love_day', date: '2020-11-13' },
